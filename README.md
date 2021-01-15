@@ -34,6 +34,10 @@ Hi, I'm Habib Dabbagh, a  BankEnd web developer from Turkey.
 - 👯 I’m looking to collaborate on Open source projects 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/habibdabbag/)
 
+
+<br />
+<br />
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -46,6 +50,8 @@ Hi, I'm Habib Dabbagh, a  BankEnd web developer from Turkey.
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
+<br />
+<br />
 
 ### Connect with me:
 
@@ -54,3 +60,14 @@ Hi, I'm Habib Dabbagh, a  BankEnd web developer from Turkey.
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/habibdabbagh)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/habibdabbag)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abu_7ub)
+
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
