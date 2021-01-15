@@ -22,7 +22,7 @@ https://discord.gg/
 
 <br />
 
-I'm a Software Web Developer from this World (: 
+I'm a Bankend Web Developer from this World (: 
 
 - 🔭 I’m currently working on Angular and Spring Library 
 - 🌱 I’m currently learning [SAP Hybris Java ](https://github.com/alhabibdabbagh/bookLibrary)
