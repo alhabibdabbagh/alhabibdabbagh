@@ -66,7 +66,7 @@ I'm a Bankend Web Developer from this World (:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="alhabibdabbagh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alhabibdabbagh&show_icons=true&hide_border=true" />
+  <img align="left" alt="Habib's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alhabibdabbagh&show_icons=true&hide_border=true" />
 
 </details>
 
