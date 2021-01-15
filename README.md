@@ -20,13 +20,9 @@ https://discord.gg/
 ### Hi there, I'm [Habib!](https://www.linkedin.com/in/habibdabbag/) 👋
 
 
-<a href="https://discordapp.com/users/691741267570327632">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-
 <br />
 
-I'm a  BankEnd web developer from Turkey.
+I'm a  BankEnd web developer from this World (: 
 
 - 🔭 I’m currently working on Angular and Spring Library 
 - 🌱 I’m currently learning [SAP Hybris Java ](https://github.com/alhabibdabbagh/bookLibrary)
@@ -57,6 +53,9 @@ I'm a  BankEnd web developer from Turkey.
 [<img align="left" alt="alhabibdabbagh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/habibdabbag)
 [<img align="left" alt="alhabibdabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abu_7ub)
 [<img align="left" alt="alhabibdabbagh | Hackerrank" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/habibdabbag)
+<a href="https://discordapp.com/users/691741267570327632">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
 
 <br />
