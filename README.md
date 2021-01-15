@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Habib!](https://www.linkedin.com/in/habibdabbag/) 👋
 
 
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.gg/Habib Dabbağ#1968">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
