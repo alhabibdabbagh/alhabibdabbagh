@@ -20,7 +20,7 @@ https://discord.gg/
 ### Hi there, I'm [Habib!](https://www.linkedin.com/in/habibdabbag/) 👋
 
 
-<a href="https://discord.com/channels/743861902098301050/792836790821191690/798621415335002192">
+<a href="https://discordapp.com/users/691741267570327632">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
