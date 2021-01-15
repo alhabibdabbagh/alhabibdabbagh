@@ -48,7 +48,6 @@ I'm a  BankEnd web developer from Turkey.
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
-<br />
 
 ### Connect with me:
 
@@ -59,6 +58,8 @@ I'm a  BankEnd web developer from Turkey.
 [<img align="left" alt="alhabibdabbagh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/abu_7ub)
 [<img align="left" alt="alhabibdabbagh | Hackerrank" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/habibdabbag)
 
+
+<br />
 
 <br />
 
