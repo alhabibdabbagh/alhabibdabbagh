@@ -63,8 +63,12 @@ I'm a Bankend Web Developer from this World (:
 
 <br />
 <a href="https://github.com/alhabibdabbagh/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhabibdabbagh&layout=compact&theme=material-palenight" />
+  -->
+## 📈 Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alhabibdabbagh&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </a>
 <details>
   <summary>:zap: GitHub Stats</summary>
