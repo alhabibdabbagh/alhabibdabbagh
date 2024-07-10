@@ -25,16 +25,14 @@ https://discord.gg/
 
 I'm a Bankend Web Developer from this World (: 
 
-Great! Here's a summary of your current status and interests:
 
-🔭 You’re currently working at Adesso.
-🌱 You’re currently a Java developer focusing on Spring Boot microservices.
-👯 You’re looking to collaborate on projects like Kodluyoruz and more.
-🤔 You’re looking for help with Spring Library and English.
-💬 You’re open to being asked about anything.
-📫 People can reach you on LinkedIn as Habib Dabbağ.
-😄 Your pronouns are 😄.
-⚡ Fun fact: Be fun to be your live fun. 
+- 🔭 I’m currently working at Adesso
+- 🌱 I’m currently working as a Java developer focusing on Spring Boot microservices
+- 👯 I’m looking to collaborate on Kodluyoruz and more projects
+- 💬 Ask me about anything
+- 📫 How to reach me: Habib Dabbağ on LinkedIn
+- 😄 Pronouns: 😄
+- ⚡ Fun fact: Be fun to be your live fun
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/habibdabbag/)
 
 <br />
